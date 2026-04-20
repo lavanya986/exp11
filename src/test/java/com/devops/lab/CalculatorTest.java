@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package com.devops.lab;
 
 import org.junit.jupiter.api.Test;
@@ -26,7 +26,6 @@ public class CalculatorTest {
         );
         assertEquals("Cannot divide by zero", exception.getMessage());
     }
-=======
 package com.devops.lab;
 
 import org.junit.jupiter.api.Test;
@@ -54,5 +53,4 @@ public class CalculatorTest {
         );
         assertEquals("Cannot divide by zero", exception.getMessage());
     }
->>>>>>> 7cad21321509551ac86909866cdd9a6f3f79881e
 }
